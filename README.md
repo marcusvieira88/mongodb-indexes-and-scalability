@@ -198,6 +198,6 @@ It executes a COLLSCAN scan:
 
 ## References 
 
-[MongoDB Indexes](https://docs.mongodb.com/manual/indexes/)
-[Partial and Sparse Indexes](https://www.percona.com/blog/2018/12/19/using-partial-and-sparse-indexes-in-mongodb/)
-[MongoDB Replication](https://docs.mongodb.com/manual/replication/)
+* [MongoDB Indexes](https://docs.mongodb.com/manual/indexes/)
+* [Partial and Sparse Indexes](https://www.percona.com/blog/2018/12/19/using-partial-and-sparse-indexes-in-mongodb/)
+* [MongoDB Replication](https://docs.mongodb.com/manual/replication/)
