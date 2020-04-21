@@ -178,7 +178,7 @@ It executes a IXSCAN scan:
 
 It executes a COLLSCAN scan:
 ```
-{field_b: 'Field B description', field_c: 100}
+{field_b: 'Field B description', field_c: 100} 
 ```
 
 It executes a IXSCAN scan:
